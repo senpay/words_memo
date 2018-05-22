@@ -3,16 +3,16 @@ Experiment to create opensource application that helps to learn words in another
 
 # Installation
 ## 1. Create virtual enviornment:
-```
-$python3 -m venv .
+```bash
+$ python3 -m venv .
 ```
 
 ## 2. Install pytest
-```
-$pip install -U pytest
+```bash
+$ pip install -U pytest
 ```
 
 ## 3. Install 
-```
-$pip install -U pylint
+```bash
+$ pip install -U pylint
 ```
