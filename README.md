@@ -2,12 +2,17 @@
 Experiment to create opensource application that helps to learn words in another language
 
 # Installation
-## To create virtual enviornment:
+## 1. Create virtual enviornment:
 ```
 $python3 -m venv .
 ```
 
-## To install pytest
+## 2. Install pytest
 ```
 $pip install -U pytest
+```
+
+## 3. Install 
+```
+$pip install -U pylint
 ```
